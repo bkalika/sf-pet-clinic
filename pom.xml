@@ -43,9 +43,8 @@
     </build>
 
     <scm>
+        <connection>scm:git:https://github.com/bkalika/sf-pet-clinic</connection>
         <developerConnection>scm:git:https://github.com/bkalika/sf-pet-clinic.git</developerConnection>
-        <connection>scm:git:https://github.com/bkalika/sf-pet-clinic.git</connection>
-        <url>https://github.com/bkalika/sf-pet-clinic</url>
-        <tag>SNAPSHOT</tag>
+        <url>https://github.com/bkalika/sf-pet-clinic.git</url>
     </scm>
 </project>
